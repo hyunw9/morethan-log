@@ -6,7 +6,7 @@ const CONFIG = {
     role: "server developer",
     bio: "코드가 보이지 않는다면 새로고침 해주세요.",
     email: "rkdgusdnr32@naver.com",
-    linkedin: "hyunw9",
+    linkedin: "hyeonwook-kang-716a1a250/",
     github: "hyunw9",
     instagram: "hyunw9",
   },
